@@ -1,0 +1,12 @@
+.icon-group h1{
+    display: inline-block;
+}
+  
+.icon-group img{
+    float: left;
+}
+
+.login{
+    background-image: url(../resource/images/background_login.png) !important;
+    background-size: cover !important;
+}
